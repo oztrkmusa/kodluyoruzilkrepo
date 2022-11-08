@@ -1,2 +1,5 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz
+
+## Musa Öztürk
+
+![Lorem Picsum](https://picsum.photos/seed/picsum/200/300)
